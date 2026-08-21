@@ -1,11 +1,11 @@
  {
   "common": {
-    "forceUpdate": true,
+    "forceUpdate": false,
     "releaseNotes": "更新内容:蓝牙和后台看门狗优化，保活。更好的保持蓝牙在线状态和APP后台存活状态"
   },
   "platforms": {
     "android": {
-      "version": "1.5.5",
+      "version": "1.5.0",
       "downloadUrl": "https://cdn.com/app-android.apk"
     }
   }
