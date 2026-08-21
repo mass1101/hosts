@@ -1,6 +1,6 @@
  {
   "common": {
-    "forceUpdate": false,
+    "forceUpdate": true,
     "releaseNotes": "更新内容:蓝牙和后台看门狗优化，保活。更好的保持蓝牙在线状态和APP后台存活状态"
   },
   "platforms": {
